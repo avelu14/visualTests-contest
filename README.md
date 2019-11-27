@@ -7,7 +7,7 @@
 
 ## _Steps to Execute:_
 5. Download and import as Maven Project
-6. ChromeDriver    - Place the chromedriver in \\JWAF-master\drivers
+6. ChromeDriver    - Place the chromedriver in \\visualTests-contest-master\drivers
 4. api_key       - Replace the api key for visual tests in VisualTest.java and VisualTestDynamic.java files
 5. url           - update the version 1 and 2 endpoint in Init.java class before execution
 
